@@ -1,0 +1,22 @@
+.awesome-tanks-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.awesome-tanks-navlink {
+  display: contents;
+}
+.awesome-tanks-image {
+  width: 70px;
+  height: 64px;
+  object-fit: cover;
+  text-decoration: none;
+}
+.awesome-tanks-div {
+  width: 1003px;
+  height: 700px;
+}

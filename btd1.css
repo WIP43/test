@@ -1,0 +1,18 @@
+.btd1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.btd1-navlink {
+  display: contents;
+}
+.btd1-image {
+  width: 70px;
+  height: 64px;
+  object-fit: cover;
+  text-decoration: none;
+}
